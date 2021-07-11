@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shopify</string>
+    <string name="products">Products</string>
+    <string name="search_menu">Search Menu</string>
+</resources>
